@@ -1,0 +1,46 @@
+VICTORY IN ROUND 7! will5 was the last zombie.
+Zombies still active: 0
+First zombies killed:
+darden1 1
+potatobot8 2
+cris3 3
+darden 4
+garcia2 5
+garcia 6
+paoletti0 7
+paoletti 8
+paoletti9 9
+noah7 10
+Last zombies killed:
+will5 10
+fee6 9
+bing4 8
+noah7 7
+paoletti9 6
+paoletti 5
+paoletti0 4
+garcia 3
+garcia2 2
+darden 1
+Most active zombies:
+will5 5
+bing4 4
+fee6 4
+noah7 4
+paoletti 3
+paoletti9 3
+darden 2
+garcia 2
+garcia2 2
+paoletti0 2
+Least active zombies:
+cris3 1
+darden1 1
+potatobot8 1
+darden 2
+garcia 2
+garcia2 2
+paoletti0 2
+paoletti 3
+paoletti9 3
+bing4 4

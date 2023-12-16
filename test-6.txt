@@ -1,0 +1,35 @@
+#my test case
+quiver    5  seed   123456
+rand-dist 50  rand-speed 10  rand-health 5
+---
+r 1
+rndzmbs 0
+named 4
+gracey    distance: 100  speed: 5  health: 10
+sydneyy distance 10 speed 10 health 13
+hannahh   d 70 s 3 h 8
+sofiaa    d 80 s 3 h 3
+---
+r 5
+rndzmbs 0
+named 4
+gracey    distance: 1  speed: 5  health: 1
+sydney distance 1 speed 10 health 1
+hannah  d 60 s 30 h 1
+sofia   d 60 s 30 h 1
+---
+r 10
+rndzmbs 0
+named 4
+grac    distance: 1  speed: 5  health: 1
+sydne distance 1 speed 10 health 1
+hann   d 60 s 30 h 1
+sofi   d 60 s 30 h 1
+---
+r 12
+rndzmbs 0
+named 4
+gra   distance: 1  speed: 5  health: 1
+sydn distance 1 speed 10 health 1
+han   d 60 s 30 h 1
+sof    d 60 s 30 h 1

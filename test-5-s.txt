@@ -1,0 +1,11 @@
+#my test case
+quiver    10  seed   123456
+rand-dist 50  rand-speed 10  rand-health 5
+---
+r 2
+rndzmbs 0
+named 4
+gracey    distance: 1  speed: 5  health: 1
+sydneyy distance 1 speed 10 health 1
+hannahh   d 60 s 30 h 1
+sofiaa    d 60 s 30 h 1
